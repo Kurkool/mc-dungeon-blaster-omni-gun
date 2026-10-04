@@ -12,9 +12,9 @@
 |---|---|
 | Physical / Fire / Water / Earth Weapon Damage | อย่างละ 500 |
 | Energy | +5000 |
+| Energy Regen | +5000 |
 | Spell Power | +500 |
 | Elemental Defense | +500 |
-| Vitality | +500 |
 
 ยิงโดนแล้วติดสถานะ 100% ทุกนัด ได้แก่ Bleed, Slow, Burn, Poison, Blind, Petrify, Torment, Shred และ Curse of Weakness
 
@@ -24,13 +24,15 @@
 |---|---|
 | Physical / Fire / Water / Earth Weapon Damage | อย่างละ 500 |
 | Energy | +5000 |
+| Energy Regen | +5000 |
 | Spell Power | +500 |
 | Lifesteal | 10% |
-| Elemental Defense | +500 |
 
 ตีโดนแล้วติดสถานะ 100% ทุกครั้ง ชุดเดียวกับ Omni Gun
 
 ดาบใช้ Energy ครั้งละ 2 ทุกครั้งที่ตี Energy +5000 เลยพอให้ตีได้ยาวๆ
+
+ทั้งปืนและดาบต้องมี Energy Regen คู่กับ Energy เพราะ Mine and Slash ใส่ Slowness II ให้ทุกครั้งที่ Energy ที่เหลือต่ำกว่า 10% ของ Energy สูงสุด ถ้าเพิ่มแต่ Energy สูงสุดแล้วเติมไม่ทัน ผู้เล่นจะช้าตลอด
 
 ดาบตีระยะประชิดได้ เลยใช้จัดการ Enderman ได้ ซึ่งกระสุนทำไม่ได้ เพราะ Enderman วาร์ปหลบ projectile ทุกชนิด
 
@@ -51,8 +53,9 @@ Bullet Storm กับ Fire Nova ตัวเดิมของ pack (`chance_of
 Mine and Slash ให้ไอเทม unique ใส่ stat ได้สูงสุด 12 ตัวในช่อง unique กับ 8 ตัวในช่อง base ถ้าใส่เกิน stat ส่วนที่เกินจะไม่ทำงาน ปืนกับดาบเลยใส่ไว้เต็มทั้งสองช่องพอดี และตัดบางอย่างออกไปดังนี้
 - Stun กับ Chill เพราะ Ice Pillar ใส่ให้อยู่แล้ว
 - Curse of Agony กับ Curse of Despair
-- Strength, Health Regen และ Energy Regen
-- Fire / Earth / Water Resist รวมเป็น Elemental Defense ตัวเดียว
+- Strength กับ Health Regen
+- Vitality ของปืน กับ Elemental Defense ของดาบ เพื่อเปิดที่ให้ Energy Regen
+- Fire / Earth / Water Resist ของปืนรวมเป็น Elemental Defense ตัวเดียว
 
 ## Omni Necklace
 

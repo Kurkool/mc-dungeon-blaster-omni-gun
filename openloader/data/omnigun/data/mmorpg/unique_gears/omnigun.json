@@ -23,7 +23,7 @@
     { "min": 5000.0, "max": 5000.0, "stat": "energy", "type": "flat" },
     { "min": 500.0, "max": 500.0, "stat": "spell_power", "type": "flat" },
     { "min": 500.0, "max": 500.0, "stat": "elemental_resist", "type": "flat" },
-    { "min": 500.0, "max": 500.0, "stat": "vitality", "type": "flat" }
+    { "min": 5000.0, "max": 5000.0, "stat": "energy_regen", "type": "flat" }
   ],
   "rarity": "unique",
   "set": "",
