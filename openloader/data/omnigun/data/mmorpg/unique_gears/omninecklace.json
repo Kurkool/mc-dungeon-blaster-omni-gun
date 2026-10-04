@@ -1,0 +1,16 @@
+{
+  "id": "omninecklace",
+  "weight": 0,
+  "unique_stats": [
+    { "min": -100.0, "max": -100.0, "stat": "negative_eff_duration", "type": "flat" },
+    { "min": -100.0, "max": -100.0, "stat": "inc_effect_of_negative_buff_on_you", "type": "flat" }
+  ],
+  "base_stats": [],
+  "rarity": "unique",
+  "set": "",
+  "replaces_name": true,
+  "base_gear": "necklace",
+  "filters": {
+    "list": []
+  }
+}
