@@ -1,0 +1,35 @@
+{
+  "id": "omnisword",
+  "weight": 0,
+  "unique_stats": [
+    { "min": 100.0, "max": 100.0, "stat": "omni_chance_of_bullet_storm", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "omni_chance_of_fire_nova", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_ice_pillar", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_bleed", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_slow", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_burn", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_poison", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_blind", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_petrify", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_torment", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_shred", "type": "flat" },
+    { "min": 100.0, "max": 100.0, "stat": "chance_of_curse_weakness", "type": "flat" }
+  ],
+  "base_stats": [
+    { "min": 500.0, "max": 500.0, "stat": "physical_weapon_damage", "type": "flat" },
+    { "min": 500.0, "max": 500.0, "stat": "fire_weapon_damage", "type": "flat" },
+    { "min": 500.0, "max": 500.0, "stat": "water_weapon_damage", "type": "flat" },
+    { "min": 500.0, "max": 500.0, "stat": "earth_weapon_damage", "type": "flat" },
+    { "min": 5000.0, "max": 5000.0, "stat": "energy", "type": "flat" },
+    { "min": 500.0, "max": 500.0, "stat": "spell_power", "type": "flat" },
+    { "min": 10.0, "max": 10.0, "stat": "lifesteal", "type": "flat" },
+    { "min": 500.0, "max": 500.0, "stat": "elemental_resist", "type": "flat" }
+  ],
+  "rarity": "unique",
+  "set": "",
+  "replaces_name": true,
+  "base_gear": "sword",
+  "filters": {
+    "list": []
+  }
+}

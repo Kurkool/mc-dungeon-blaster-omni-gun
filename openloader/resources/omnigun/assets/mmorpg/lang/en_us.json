@@ -1,3 +1,6 @@
 {
-  "mmorpg.unique_gear.omnigun.name": "Omni Gun"
+  "mmorpg.unique_gear.omnigun.name": "Omni Gun",
+  "mmorpg.unique_gear.omnisword.name": "Omni Sword",
+  "mmorpg.stat.omni_chance_of_bullet_storm": "Chance to cast Bullet Storm on hit (any weapon)",
+  "mmorpg.stat.omni_chance_of_fire_nova": "Chance to cast Fire Nova on hit (any weapon)"
 }
